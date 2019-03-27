@@ -16,9 +16,8 @@
 title: james christie
 email: jlc_christie@live.com
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Student in the Program in Complex Trait Genomics, University of Queensland.
-  BSc Computer Science (hons) graduate, University of Exeter.
-  Electronics hobbyist, coffee addict, muay thai rookie
+    phd student in complex trait genomics, computer science graduate, python enthusiast,
+    electronics hobbyist, coffee addict, muay thai rookie
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
