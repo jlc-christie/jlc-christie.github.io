@@ -10,4 +10,3 @@ permalink: /about/
 -	interested in electronics & embedded development 
 - 	frequently found in coffee shops
 -	seeking opportunities in London
-
