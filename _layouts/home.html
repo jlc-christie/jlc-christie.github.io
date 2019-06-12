@@ -30,4 +30,20 @@ layout: default
 
   {%- endif -%}
 
+  {%- if site.projects.size > 0 -%}
+    <h2 class="post-list-heading">Projects</h2>
+    <ul class="post-list">
+      {%- for project in site.projects -%}
+      <li>
+      <h3>
+        <a class="post-link" href="{{ project.url | relative_url }}">
+	{{ project.title | escape }}
+	</a>
+      </h3>
+      {{ project.description }}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
 </div>
