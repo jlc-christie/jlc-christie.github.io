@@ -4,4 +4,4 @@
 
 layout: home
 ---
-I graduated from my BSc Computer Science in 2018 and went on to do research on the genetics of complex traits at the University of Exeter Medical School and the University of Queensland. Following my time in the research sector I moved in to a professional services role in the financial technology sector in London. A [PDF of my resume](/resume) is available for download.
+I graduated from my BSc Computer Science in 2018 and went on to do research on the genetics of complex traits at the University of Exeter Medical School and the University of Queensland. Following my time in the research sector I moved in to a professional services role in the financial technology sector in London. I am now working as a freelance Software Engineer. Currently looking for a short-term role. A [PDF of my resume](/resume) is available for download.
